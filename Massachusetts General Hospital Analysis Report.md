@@ -21,7 +21,8 @@ The Massachusetts General Hospital dataset project is a data-driven initiative t
 
 ## 📝 Project Description:
 This project offers a comprehensive data-driven evaluation of Massachusetts General Hospital (MGH), designed to uncover the hidden dynamics behind patient care, hospital operations, and financial performance. It combines clinical data (patients demographics and procedure records), insurance records, and encounter histories to answer critical questions about how hospitals functions.
-Key Components of the Analysis:
+
+**Key Components of the Analysis:**
 - 	Patient Demographics: Age, gender, and other attributes that influence care delivery and resource allocation.
 - 	Hospital Encounters: Trends in inpatient, outpatient, and emergency visits across time.
 - 	Procedure Volumes & Costs: Identification of high-frequency and high-cost medical procedures.

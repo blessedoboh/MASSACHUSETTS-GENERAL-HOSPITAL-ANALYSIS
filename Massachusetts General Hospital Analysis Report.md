@@ -1,4 +1,4 @@
-# Massachusetts Hospital Analysis
+# Massachusetts General Hospital Analysis
 
 ## 📚 Table of Contents
 1. 📌 Introduction
